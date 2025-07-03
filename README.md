@@ -7,7 +7,7 @@ This repository contains implementations and experiments from course work genera
   # Bayesian Inference & Sampling : 
     Implemented Gibbs sampling, rejection sampling, and other probabilistic sampling techniques
   # Autoregressive & Sequence Models
-    PixelCNN for image generation
+    PixelCNN for image generation <br>
     LSTM & GRU (with and without Transformers) for modeling Persian text
   # Variational & Adversarial Models
     Beta-VAE on MNIST
