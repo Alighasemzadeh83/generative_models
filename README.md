@@ -6,17 +6,17 @@ This repository contains implementations and experiments from course work genera
     Denoising images using neighbor-based methods <br>
   - Bayesian Inference & Sampling : 
     Implemented Gibbs sampling, rejection sampling, and other probabilistic sampling techniques <br>
-  - Autoregressive & Sequence Models
+  - Autoregressive & Sequence Models :
     PixelCNN for image generation <br>
     LSTM & GRU (with and without Transformers) for modeling Persian text
-  - Variational & Adversarial Models
+  - Variational & Adversarial Models :
     Beta-VAE on MNIST <br>
     Pix2Pix on Cityscapes dataset <br>
-  - Energy-Based Models
+  - Energy-Based Models :
     EBM (Energy-Based Model) with Langevin dynamics on MNIST <br>
-  - Normalizing Flows
+  - Normalizing Flows :
     Applied normalizing flows on the two-moon dataset <br>
-  - Diffusion Models
+  - Diffusion Models :
     Implemented DDPM and DDIM sampling for diffusion models on the Sprite dataset <br>
 
 # Research Project
