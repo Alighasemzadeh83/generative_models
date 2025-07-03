@@ -1,5 +1,5 @@
 # Generative Models
-This repository contains implementations and experiments from our study of generative models, including classical probabilistic approaches and modern deep learning techniques.
+This repository contains implementations and experiments from course work generative models taught by Dr. Seyyedsalehi, including classical probabilistic approaches and modern deep learning techniques.
 
 # Projects & Experiments
   ## Image Denoising :
