@@ -27,7 +27,7 @@ It covers both classical probabilistic approaches and modern deep learning techn
 ### Normalizing Flows
 - Applied **normalizing flows** to the two-moon dataset.
 
-### 🔹 Diffusion Models
+### Diffusion Models
 - Implemented **DDPM** and **DDIM** sampling for diffusion models on the Sprite dataset.
 
 ---
